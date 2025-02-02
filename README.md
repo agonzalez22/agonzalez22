@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Alina!</h1>
-<h3 align="left">a passionate data scientist @ Northeastern</h3>
+<h1 align="left">Welcome to my page 🐊!</h1>
+<h3 align="left">a SWE & Data Scientist @ Northeastern</h3>
 
 - 🔭 I’m currently working on [Intersystems Challenge](https://github.com/agonzalez22/InterSystems-ATS-Program)
 
