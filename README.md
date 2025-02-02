@@ -1,11 +1,11 @@
-<h1 align="left">Welcome to my page 🐊!</h1>
+<h1 align="left">Welcome to my GitHub🐊!</h1>
 <h3 align="left">a SWE & Data Scientist @ Northeastern</h3>
 
-- 🔭 I’m currently working on [Intersystems Challenge](https://github.com/agonzalez22/InterSystems-ATS-Program)
+- 🔭 I’m currently working on [HackBeanpot's Main & Livesite]([https://github.com/agonzalez22/InterSystems-ATS-Program](https://github.com/HackBeanpot/core))
 
-- 🌱 I’m currently learning **Next.js and Node!**
+- 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **gonzalez.ali@northeastern.edu**
+- 📫 Reach me @ **gonzalez.ali@northeastern.edu**
 
 <!--  <h3 align="left">Connect with me:</h3>
 <p align="left">
